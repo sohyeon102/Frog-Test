@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1097405275190855841}
   - component: {fileID: 4408687410873150891}
   m_Layer: 0
-  m_Name: japanes temple (1)
+  m_Name: japanes temple_Platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
